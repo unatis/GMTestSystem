@@ -1,0 +1,3 @@
+Utterance,API intent,Actual intent,API entity,Actual entity,Intent Similarity,Entity Similarity
+please make it cooler,Update Temperature,Update Temperature,Decrease temperature,Decrease temperature,Similar,Similar
+I’m cold,Update Temperature,Update Temperature,Decrease temperature,Increase temperature,Similar,Non-similar

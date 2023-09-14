@@ -1,0 +1,9 @@
+{
+  "Utterance": ["please make it cooler", "I’m cold"],
+  "API intent": ["Update Temperature", "Update Temperature"],
+  "Actual intent": ["Update Temperature", "Update Temperature"],
+  "API entity": ["Decrease temperature", "Decrease temperature"],
+  "Actual entity": ["Decrease temperature", "Increase temperature"],
+  "Intent Similarity": ["Similar", "Similar"],
+  "Entity Similarity": ["Similar", "Non-similar"]
+}
